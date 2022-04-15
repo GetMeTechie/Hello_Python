@@ -1,2 +1,4 @@
 # Hello World
-I am testing my first repository
+
+This is a repository with silly pieces of code.
+Practice Code REpository.
